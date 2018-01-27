@@ -1,0 +1,9 @@
+Exercise 2.14
+
+We are told that "b" is in between of "a" and "c", so
+"a" is on the left of "b" and "c" is on the right of "b" or is the 
+inverse, because "b" must be in the middle of those two objects. 
+But as we are told, "a" is on the left of "c", we can tell that
+"b" is on the left of "c". 
+In conclusion we can tell that "a" is on the left of "b", because 
+"b" is in between "a" and "c" and "c" is on the right of "b"

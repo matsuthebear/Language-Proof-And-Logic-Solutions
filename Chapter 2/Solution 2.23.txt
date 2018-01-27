@@ -1,0 +1,7 @@
+Philosophers have the intelligence needed to be computer scientist  <--- MAYBE TRUE
+Anyone who comes a computer scientist will eventually become wealthy <--- MAYBE TRUE
+Anyone with the intelligence needed to be a computer scientist will be one  <--- MAYBE TRUE
+--------------------------------------
+Every philosopher will become wealthy  <--- NOT TRUE
+
+There are philosophers that will become poor

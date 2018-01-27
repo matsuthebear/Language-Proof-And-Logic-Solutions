@@ -1,0 +1,5 @@
+1) Larger(Capital(Indiana), Capital(California))
+2) Die(Hitler,1945)
+3) Shook(max,Father(claire))
+4) max = Father(Son(max))
+5) Younger(EldestChild(john,nancy), EldestChild(jon,mary))

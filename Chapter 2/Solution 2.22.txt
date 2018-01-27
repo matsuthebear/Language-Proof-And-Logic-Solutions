@@ -1,0 +1,8 @@
+It is not valid.
+
+All computer scientists are rich <-- NOT TRUE
+Anyone who knows how to program a computer is a computer scientist
+Bill Gates is rich
+Bill Gates knows how to program a computer
+
+If I'm a computer scientist, it means that I'm rich, but I'm poor

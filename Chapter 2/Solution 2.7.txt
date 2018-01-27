@@ -1,0 +1,4 @@
+We know that Max and Claire are not related, so 
+Claire's Mother is not Max's Mother. 
+But then we know that Nancy is Max's Mother, 
+so we can tell that Nancy, who is Max' Mother, is not Claire Mother

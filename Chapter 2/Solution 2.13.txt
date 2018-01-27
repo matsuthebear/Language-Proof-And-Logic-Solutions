@@ -1,0 +1,15 @@
+Exercise 2.13
+
+
+We are told that "a" has the same size as "b".
+
+We also know that "a" is larger than "c", so "b" is also bigger that "c".
+
+Furthermore we know that "d" is smaller than "c", so "c" is bigger that "d".
+
+We can confirm that "b" is bigger that "c", who is bigger than "d", 
+so "b" must be bigger than "d". 
+
+In conclusion, "d" is smaller than "b" knowing that smaller and bigger are inverses.
+
+This is our desired conclusion.

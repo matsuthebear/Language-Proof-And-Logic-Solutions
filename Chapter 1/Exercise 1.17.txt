@@ -1,0 +1,2 @@
+1) Height(george) > Height(sam)
+2) Height(sam) = Height(Mary)

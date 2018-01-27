@@ -1,0 +1,19 @@
+7.2.1.22540
+wnds:Windows 86.2
+SntF
+C1508746677411D1508747080166
+S8567
+20
+~(Medium(c) & Smaller(c, a))~(Medium(c) & Smaller(c, a))
+; Make sure you understand why this sentence and
+; (1) have different truth values.~Cube(d) | Tet(f)~Cube(d) | Tet(f)
+; Make sure you understand why this sentence and
+; (3) have different truth values.~Large(c) & Larger(c, a)~(Large(c) & Larger(c, a))~(Cube(d) & Cube(f))
+; Predict whether this sentence will have the same
+; truth value as 8 or as 9.~(Cube(d) & ~Cube(f))~Cube(d) | ~Cube(f)~(Cube(d) | Cube(f))
+; Predict whether this sentence will have the same
+; truth value as 8 or as 9. ~[LeftOf(c, f) | RightOf(c, f)]
+; Brackets [ ] and braces { } work the same as
+; parentheses ( ).~[LeftOf(a, d) | RightOf(a, d)]Tet(a) | (Tet(f) & Tet(c))Tet(a) | (Tet(f) & Tet(c))(Dodec(a) | Dodec(b)) | Dodec(c)LeftOf(a, c) & LeftOf(c, b) & ~Between(c, a, b)~~(BackOf(e, b) & ~FrontOf(c, b))BackOf(d, a) & LeftOf(d, e) & FrontOf(b, e) & 
+      Between(c, d, b)Smaller(c, e) | ~(Cube(a) | Cube(d))~~Dodec(e) | ~ ~Tet(f)
+s=165464;

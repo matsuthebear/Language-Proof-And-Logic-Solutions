@@ -1,0 +1,1 @@
+If b equals to c and a equals to c, we can tell that a is equal to c

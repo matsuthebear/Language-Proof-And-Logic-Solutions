@@ -1,0 +1,5 @@
+1) LessContagious(aids,influenza) & MoreDeadly(aids,influenza)
+2) Fool(abe,stephen,sunday) & ~Fool(abe,stephen,monday)
+3) [Admires(sean,meryl) & Admires(sean,harrison)] | [Admires(brand,meryl) & Admires(brand,harrison)]
+4) JollyMiler(daisy) & Lives(daisy,riverdee)
+5) ~Borrower(EldestChild(Polonius)) | ~Leader(EldestChild(Polonius))

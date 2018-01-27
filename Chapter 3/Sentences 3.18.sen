@@ -1,0 +1,8 @@
+7.2.3.26368
+wnds:Windows 86.2
+SntF
+C1509353495384D1509354107809D1509354239338D1509354466092C1509385990365D1509386081500D1509386312406D1509386330685D1509386336475D1509386577925D1509386709875D1509386815554
+S30647
+20
+SameRow(a, b)~FrontOf(a,b)  &  ~FrontOf(b,a)SameCol(d, b)~LeftOf(d,b) &  ~RightOf(d,b)a = dSameCol(a,d) & SameRow(a,d)SameSize(a, b)(Large(a) & Large(b))  | (Medium(a) & Medium (b) )  | (Small(a) & Small(b))SameShape(a, b)(Tet(a) & Tet(b)) | (Cube(a) & Cube(b)) | (Dodec(a)& Dodec(b))BackOf(c, b)FrontOf(b,c)LeftOf(a, b)RightOf(b,a)Medium(c)~Large(c) & ~Small(c)Larger(a, b)Smaller(b,a)Cube(a)~Tet(a) & ~Dodec(a)
+s=100596;

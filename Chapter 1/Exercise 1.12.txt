@@ -1,0 +1,5 @@
+1) The father of Claire is taller than the father of Max
+2) John is the father of Max
+3) Claire is taller than the grandmother of Claire
+4) The grandmother of Max is taller than the mother of the father of Max
+5) The mother of Melanie is the mother of Claire

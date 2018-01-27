@@ -1,0 +1,15 @@
+7.2.3.26368wnds:Windows 86.2SntFC1517069355078D1517069919762S849715~[(Cube(a) & ~Small(a)) | (~Cube(a) & Small(a))];~(Cube(a) & ~Small(a)) & ~(~Cube(a) & Small(a))
+;[~~Cube(a) | ~~Small(a)] & [~~Cube(a) | ~Small(a)]
+(Cube(a) | Small(a)) & (Cube(a) | ~Small(a))
+; Put an NNF form of 1 here.~(Cube(a) & ~Small(a)) & ~(~Cube(a) & Small(a))
+; Put a CNF form of 1 here.~[(Cube(a) | ~Small(a)) & (~Cube(a) | Small(a))];~[(Cube(a) | Small(a)) & (Cube(a) | ~Small(a))]
+;~(Cube(a) | Small(a)) | ~(Cube(a) | ~Small(a))]
+; (~Cube(a) & ~Small(a)) | (~Cube(a) & ~~Small(a))
+(~Cube(a) & ~Small(a)) | (~Cube(a) & Small(a))
+; Put an NNF form of 4 here. Notice the relationship 
+; with 2.~[~(~Cube(a) & ~Small(a)) & ~(~Cube(a) & Small(a))]
+; Put an CNF form of 5 here. Notice the relationship 
+; with 3.~(Cube(a) & Larger(a, b)) & Dodec(b)(~Cube(a) | ~Larger(a,b)) & Dodec(b)~(Cube(a) & Larger(a, b)) & Dodec(b)~(~Cube(a) & Tet(b));~~Cube(a) | ~Tet(b)
+Cube(a) | ~Tet(b)~(~Cube(a) & Tet(b)~~Cube(a) | Tet(b)
+; Notice the difference between this sentence and 
+;10.Cube(a) | Tet(b)~(~Cube(a) & ~Tet(b))s=174525;

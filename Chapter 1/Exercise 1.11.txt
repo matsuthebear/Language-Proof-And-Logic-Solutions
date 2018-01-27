@@ -1,0 +1,5 @@
+1) Shook(Max,Claire)
+2) ShookWhen(Max,Claire,yesterday)
+3) MoreContagiusThan(AIDS,influenza)
+4) BetweenSize(Spain, Portugal, France)
+5) Love(Misery, company)

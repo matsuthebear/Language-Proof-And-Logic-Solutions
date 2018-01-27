@@ -1,0 +1,8 @@
+7.2.3.26368
+wnds:Windows 86.2
+SntF
+C1509355235152D1509356647808D1509356684634D1509357489988D1509358273334C1509359080568D1509359118049D1509359339076D1509359458328D1509359671776D1509359738804
+S28853
+12
+Small(a)  | (Large(c) & Large(d))BackOf(d,b) & BackOf(e,b)BackOf(d,b) & BackOf(e,b) & Larger(d,b) & Larger(e,b)Cube(d) & Cube(c) & ~Small(d) & ~Small(c)~(RightOf(a,c) & LeftOf(a,b) ) & ~( RightOf(e,c) & LeftOf(e,b) )~Large(e)  |  BackOf(e,a) ~Between(c,a,b) & ~FrontOf(c,a) & ~FrontOf(c,b)(Tet(a) & Tet(e))  | (Tet(a) & Tet(f))~FrontOf(d,c) & ~FrontOf(d,b) & ~FrontOf(c,c) & ~FrontOf(c,b)Between(c,d,f)  | (Smaller(c,f)  & Smaller(c,d))~SameRow(c,b)SameCol(b,e) & SameRow(e,d) & SameCol(d,a)
+s=112948;

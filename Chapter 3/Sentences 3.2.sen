@@ -1,0 +1,9 @@
+7.2.3.26368wnds:Windows 86.2SntFC1517051459150D1517051514787S854110Tet(a)~Adjoins(a, b)
+; This claims that a is on a square adjacent to b, 
+; but it is false since there is a square in between. ~SameRow(e, d) ~SameCol(a, f) SameRow(a, b)~Between(a, d, f) ~ ~Larger(f, e)
+; Two negation signs in a row cancel each other out, 
+; so this claims that f is larger than e. ~LeftOf(a, a) ~ ~ ~Cube(c)
+; Three negation signs in a row are equivalent to 
+; one, so this sentence is equivalent to the claim 
+; that c is not a cube. This is true in Boole's World, 
+; since c is a tet. ~~Tet(c)s=88333;

@@ -1,0 +1,5 @@
+2.9
+We know that a is on the left of b. We know also that b is equal to c.
+So, we can tell that a is also on the left of c. Finally, we can 
+demostrate that c is in the right of a
+

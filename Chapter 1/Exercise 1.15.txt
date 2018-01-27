@@ -1,0 +1,5 @@
+1) father(claire) = jon
+2) father(melanie) = jon
+
+4)FatherOf(melanie,jon)
+5)FatherOf(melanie,jon) = FatherOf(claire,jon)

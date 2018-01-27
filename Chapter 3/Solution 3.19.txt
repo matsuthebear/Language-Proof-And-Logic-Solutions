@@ -1,0 +1,6 @@
+1) Alex is the Father of chris or the Mother of chris
+2) Alex is the brother of chris or Alex is the sistes of chris
+3) Chris is a human, is an adult but is not a woman
+4) 4 is a Number, but is not Odd
+5) Chris is a person but is not Odd
+6) The grandmother of Alex is mary or the Mother of the Father of Alex. We can say that is Mary 

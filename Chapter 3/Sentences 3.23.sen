@@ -1,0 +1,2 @@
+7.2.3.26368wnds:Windows 86.2SntFC1517052697027D1517053799212S83806Student(max) & ~Pet(max)Fed(calire, folly ,2:00  ) & Gave(calire,folly,max,2:10)Owned(max, folly , 2:05  ) | Owned(claire, folly , 2:05  ) ~(Fed(calire, folly ,2:05  ) | Fed(calire, folly ,2:05 ))1:55 < 2:00 & 2:00 < 2:05[Gave(max,folly, claire  ,2:00 ) & ~Hungry(folly,2:00)] &
+Hungry(folly, 3:00) s=58817;

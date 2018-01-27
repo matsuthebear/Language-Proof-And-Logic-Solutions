@@ -1,0 +1,4 @@
+1) Claire is a student but Max is not
+2) Pris is a pet and is not owned by max at 2pm
+3) Claire owned pris at 2:00 or folly at 2:00
+4) Max did not fed pris at 2pm, but fed folly at 2:00

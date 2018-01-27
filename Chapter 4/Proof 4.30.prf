@@ -1,0 +1,7 @@
+2.7
+wnds:Windows XP5.1
+FchF
+C1415494530149D1415495476365
+newFormat
+{p=proof{p{s(i{r&1;})r{u=uProof;s=proof;}o{c=1;s="";l="";d@}u{t()}f(t{s(i{r=fol{t="Tet(a) | ~(Tet(b) & Tet(c))";b()g="";}})r{u=uPremise;s=step;}o=fol_fst{c=1;s="";l="";d@f=1;}u{t()}},t{s(i{r=fol{t="~(~Tet(b) | ~Tet(d))";b()g="";}})r&15;o=fol_fst{c=1;s="";l="";d@f=1;}u{t()}},t{s(i{r=fol{t="(Tet(e) & Tet(c)) | (Tet(c) & Tet(d))";b()g="";}})r&15;o=fol_fst{c=1;s="";l="";d@f=1;}u{t()}},t{s(i{r=fol{t="Tet(b)  & Tet(d)";b()g=@;}})r{u="uTaut Con";s=fol;}o=fol_con{c=1;s="";l="";d@f=1;}u{t(p{si&21;ss=1;})}},t{s(i{r=fol{t="Tet(c)";b()g=@;}})r&40;o=fol_con{c=1;s="";l="";d@f=1;}u{t(p{si&29;ss=2;})}},t{s(i{r=fol{t="Tet(a)  |  ~Tet(c)";b()g=@;}})r&40;o=fol_con{c=1;s="";l="";d@f=1;}u{t(p{si&37;ss=3;},p{si&12;ss=0;})}},t{s(i{r=fol{t="Tet(a)";b()g=@;}})r&40;o=fol_con{c=1;s="";l="";d@f=1;}u{t(p{si&56;ss=5;},p{si&47;ss=4;})}})}g{g(s{g{r=fol{t="Tet(a)";b()c(l{n="t/f Connectives";a=true;},l{n=Identity;a=true;},l{n=Quantifiers;a=true;},l{n=ExMidd;a=false;},l{n=TwoTaut;a=true;},l{n=TautCon;a=false;},l{n="FO Con";a=false;},l{n=BabyAna;a=false;},l{n=TwoMore;a=false;},l{n=AnaCon;a=false;})g="";}}r{u=uFOLGoalRule;s=fol;}s(s=6;)o{c=1;s="The goal checks out.";l="The goal checks out.";d@}})}a=false;}}c=105188;
+s=169506;

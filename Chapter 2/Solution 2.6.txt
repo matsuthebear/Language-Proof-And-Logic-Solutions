@@ -1,0 +1,2 @@
+If a is in the same row as a, and we know that a equals to b and b equals to c, 
+we can tell that c is in the same row as a

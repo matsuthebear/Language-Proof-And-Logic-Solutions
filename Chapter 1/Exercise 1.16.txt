@@ -1,0 +1,5 @@
+1) FavoriteActor(Nancy) = Harrison
+2) FavoriteActor(Nancy) > Sean
+3) FavoriteActor(Nancy) > FavoriteActor(Max)
+4) FavoriteActor(FavoriteActor(Claire)) = Brand
+5) FavoriteActor(Sean) = Sean

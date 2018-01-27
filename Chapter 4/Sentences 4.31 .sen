@@ -1,0 +1,2 @@
+7.2.3.26368wnds:Windows 86.2SntFC1517069940230D1517070361835S85714C & (A | (B & C)) 
+; Trasform this sentence in equivalent sentence in disjiunctive form DNF $  ex : (A & B) | (A & C)C & ((A | B) & (A | C)) ;Distributive Law P & (Q | R)  = (P | Q) & (P | R)[C & (A & B )] | [C & (A & C)];Distributive Law P | (Q & R)  = (P & Q) | (P & R)(A & B & C) | (A & C) ;Idempotence and Associative Laws=66641;

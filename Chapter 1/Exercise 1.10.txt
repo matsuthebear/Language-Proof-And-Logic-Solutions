@@ -1,0 +1,4 @@
+1) Max owned Scruffy at 2:00 pm
+2) Max fed Scruffy at 2:30 pm
+3) Max gave Scruffy to Claire at 3:00 pm
+4) 2:00 pm is earlier than 2:00 pm
