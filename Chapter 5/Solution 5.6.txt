@@ -1,0 +1,24 @@
+This sentence cannot be valid in any way : R infact is not included in the AND statement, so we can tell
+that R can be or cannot be true in certain circumstances.
+But let's try to complete this truth table. I considered R as the 3rd statement
+P	Q	R
+T	T	T
+T	T	F
+T	F	T
+T	F	F
+F	T	T
+F	T	F
+F	F	T
+F	F	F
+
+So, we can build the new truth table as this:
+
+~(P && Q) 	~P	R <--???
+Ft		F	T
+Ft		F	F	
+Ft		F	T
+Ft		F	F
+Ft		T	T
+Ft		T	F
+Tf		T	T
+Tf		T	F

@@ -1,0 +1,5 @@
+~(P && Q) 	~P
+F		F	
+T		F
+T		T
+T		T

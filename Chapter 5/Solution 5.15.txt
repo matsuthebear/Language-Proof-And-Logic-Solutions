@@ -1,0 +1,5 @@
+We know that b is a tetraedron and c is a cube.
+We also know that either c is larger than b or else they are identical.
+Knowing that, we can immediatly say that b and c cannot be identical, because they are different objects.
+So the only way that the 2nd sentence can be true is that c is larger than b,
+so b is smaller than c.

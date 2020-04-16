@@ -1,0 +1,8 @@
+It is valid, because we know that P is not true, so the only way that P || Q is true is that Q is also true
+
+P || Q	~P	Q
+T	F	T	
+T	F	F	
+T	T	T
+F	T	F
+ 

@@ -1,0 +1,22 @@
+We know that a is or a Cube or a Tetra or is Large.
+We also know that a is not a cube or a equals to b or a is large
+Furthemore a cannot be large or a = c.
+Finally is not true that c equals to itself and a is a Tetra.
+
+
+For the 1st, 2nd and 3rd sentences if a is Large to get a true sentence we must consider that
+1) a must be or a Cube or a Tetra
+2) a equals to b or is not a Cube
+3) a = c
+We can tell that a equals to c if a is Large
+
+For the 1st, 2nd and 3rd sentences if a is Cube to get a true sentence we must consider that
+1) a must be or a Large or a Tetra
+2) a equals to b or is Large
+3) a must not be Large or a = c
+
+And if we say also that a is also not Large, to get a true sentence we must consider that:
+2) a equals to b
+3) a = c
+
+We can tell that a equals to b if a is not a Large Cube

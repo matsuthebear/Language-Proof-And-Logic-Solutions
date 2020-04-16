@@ -1,0 +1,9 @@
+It is not valid, because we got P || Q and Q true, but to transform P || Q into a true sentence we have 
+to got P or Q true. So, P can also be true. Furthemore, we know that from P infer P || Q, so it can be 
+possible that P is true and not only false
+
+P || Q	Q	~P		P
+T	T	F		T
+T	F	F		T
+T	T	T		F
+F	F	T 	F

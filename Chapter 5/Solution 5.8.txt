@@ -1,0 +1,6 @@
+a is on the left of b or is on the right of b.
+We know that a is on the back of b or is not on the left of b.
+We also know that b is in frontof a or a is not in right of b.
+Furthemore, c is in the same column as a and is in the same row as b.
+
+So we can say that a is in back of b

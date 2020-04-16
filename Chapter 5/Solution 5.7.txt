@@ -1,0 +1,4 @@
+We know that Max or Claire is at Home,
+we know also that Max is not happy or Carl is at home.
+Furthemore Claire is not happy or Carl is Happy.
+We can tell that Carl is Happy
