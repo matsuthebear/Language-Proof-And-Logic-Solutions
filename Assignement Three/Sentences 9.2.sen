@@ -1,0 +1,15 @@
+7.2.3.26368wnds:Windows 86.2SntFC1511771966146D1511772272502D1511772345499S1038010/y ~Adjoins(y, y)
+; You can make this a sentence by adding a single
+; quantifier (and variable).@w (Tet(w) $ Large(w))
+; Here, too. Tet(a) $ /w Large(w)
+; Since you can't add parentheses, you'll have to 
+; put the quantifier in the right place.@w Tet(w) $ /w Large(w)
+; How many quantifiers do you need here?
+; Remember, you can't add parentheses.@x Large(x) $ /x /y ~Larger(y, x)@x /y ((Cube(x) & Cube(y)) $ ~Larger(x, y))@x Cube(a)
+; Remember, you are only to add quantifiers  or 
+; variables or both.  No changing the "a".  The
+; resulting sentence is odd, but we'll explain 
+; what it means later.@y Tet(y) $ /x Small(x)
+; The quantifier here is not doing anything.  It
+; doesn't bind the y (wrong variable) and it 
+; doesn't bind the x (wrong scope).@x @y @z((Tet(x) & Tet(y)) $ Between(z, x, y))@x (Tet(x) & Large(x)) & @x /y LeftOf(x, y)s=144366;

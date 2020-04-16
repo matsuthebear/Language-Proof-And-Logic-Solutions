@@ -1,0 +1,12 @@
+MATTEO MARZIO
+id218iyl
+
+Exercise 2.12
+
+We are told that "a" is to the back of "b", so we can tell that "b" is to the front of "a", 
+since "front of" and "back of" are inverses.
+We are also told that "a" is in front of "c", 
+so "c" must be to the back of "a" for the same reason written as before.
+Knowing that "a" is to the front of "c" and "b" is to the front of "a",
+"b" must be to the front of "c".
+This is our desired conclusion.

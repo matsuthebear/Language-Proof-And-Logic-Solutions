@@ -1,0 +1,9 @@
+7.2.3.26368wnds:Windows 86.2SntFC1511254271051D1511254804672C1511274399555D1511274627326D1511274846689D1511274915772D1511275327101D1511275416226D1511275570501D1511275576411D1511275639626C1511275662085D1511275716637S330638Tet(a) & Small(a) ~(~Tet(a) | ~Small(a))Tet(a) $ Small(a)~Tet(a) | Small(a) Tet(a) % Small(a);(P & Q) | (~P & ~Q)
+; ~(~P | ~Q) | ~(P | Q)
+~[~Tet(a) | ~Small(a)] | ~[Tet(a) | Small(a)](Cube(b) & Cube(c)) $ (Small(b) % Small(c))
+; This one is long.  Tranlate the antecedant and 
+; consequent and then combine them using ~ and |.;Small(b) % Small(c) = (P & Q) | (~P & ~Q)
+; (P & Q) | (~P & ~Q) = ~[~Small(b) | ~Small(c)] | ~[(Small(b) | Small(c)] = B
+; Cube(b) & Cube(c) = ~[~Cube(b) | ~Cube(c)] = A
+; A  $ B = ~A | B
+[~Cube(b) | ~Cube(c)] | ~[~Small(b) | ~Small(c)] | ~[Small(b) | Small(c)]s=127120;
